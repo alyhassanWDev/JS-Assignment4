@@ -1,0 +1,13 @@
+*{
+
+    font-family: "Titillium Web", sans-serif;
+}
+body{
+    background-color: #24353F;
+}
+h1,h2{
+    color: #17A2B8;
+}
+a:hover{
+    text-decoration: underline !important;
+}
